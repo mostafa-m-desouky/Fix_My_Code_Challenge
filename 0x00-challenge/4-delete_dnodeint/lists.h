@@ -2,7 +2,6 @@
 #define _LISTS_H_
 
 #include <stddef.h>
-#include<stido.h>
 
 
 /**
