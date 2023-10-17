@@ -10,11 +10,8 @@ with, others of which I was not. The specific list of projects contained follows
 
 * [0x00. Fix my code](./0x00-challenge)
 
-## Principal Author🖊️:
-* **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
-
 ## Supporting Author:
-* **[Askdebb](https://github.com/askdebb)**
+* **[mostafa-m-desouky](https://github.com/mostafa-m-desouky)**
 
 ## Acknowledgements :pray:
 
